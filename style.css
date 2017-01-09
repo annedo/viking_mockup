@@ -94,7 +94,7 @@ header {
 
 .splash {
 	border-top: 3px solid black;
-	background-image: url("/img/viking_ship_background_medium.jpg");
+	background-image: url("img/viking_ship_background_medium.jpg");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
